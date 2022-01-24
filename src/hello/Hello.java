@@ -5,6 +5,7 @@ public class Hello {
         System.out.println("Hello Word");
     }
 
+
 }
 /*
 1. create a java project called `git_practice4`
