@@ -9,13 +9,11 @@ public class Hello {
 /*
 1. create a java project called `git_practice4`
 2. create a `.gitignore` file with below content
-
-
-
+```
  .idea
  out
  *.iml
-
+```
 3. create a package under `src` folder called `hello` and create a class called `Hello`
 4. Enable version control to **create git repository** for this project
 5. Make a initial commit
